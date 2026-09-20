@@ -1,0 +1,11 @@
+epub-translator>=0.1.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+ebooklib>=0.18
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+openai>=1.12.0
+google-genai>=0.1.1
+json-repair>=0.25.0
+requests>=2.31.0
+pytest>=8.0.0
